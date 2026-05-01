@@ -43,10 +43,10 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll))
       <div class="flex items-center justify-between h-20">
 
         <!-- Logo -->
-        <a href="#inicio" @click.prevent="scrollTo('#inicio')" class="flex items-center gap-3 flex-shrink-0">
-          <img src="/images/logo.png" alt="Constru Yamel" class="object-contain" style="height: 45px;" />
-          <span class="font-['Montserrat'] font-bold text-2xl text-white tracking-widest">CONSTRU</span>
-          <span class="font-['Montserrat'] font-bold text-2xl text-[#F59E0B] tracking-widest">YAMEL</span>
+        <a href="#inicio" @click.prevent="scrollTo('#inicio')" class="flex items-center gap-2 lg:gap-3 flex-shrink-0">
+          <img src="/images/logo.png" alt="Constru Yamel" class="object-contain w-auto h-8 lg:h-[45px]" />
+          <span class="font-['Montserrat'] font-bold text-base lg:text-2xl text-white tracking-widest">CONSTRU</span>
+          <span class="font-['Montserrat'] font-bold text-base lg:text-2xl text-[#F59E0B] tracking-widest">YAMEL</span>
         </a>
 
         <!-- Links de navegación — desktop -->
