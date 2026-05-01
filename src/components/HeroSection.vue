@@ -15,7 +15,7 @@ function scrollToProjects() {
     <!-- Imagen de fondo -->
     <div
       class="absolute inset-0 bg-cover bg-no-repeat hero-bg"
-      style="background-image: url('/src/assets/images/heroSection.png')"
+      style="background-image: url('/images/heroSection.png')"
     ></div>
 
     <!-- Overlay gradiente izquierda → derecha -->

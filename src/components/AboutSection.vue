@@ -85,7 +85,7 @@ import { companyValues, siteConfig } from '@/data/config'
             style="border-radius: 8px;"
           >
             <img
-              src="/src/assets/images/PROYECT2.png"
+              src="/images/PROYECT2.png"
               alt="Equipo Constru Yamel en obra"
               class="w-full h-full object-cover"
               style="max-height: 500px;"

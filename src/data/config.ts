@@ -98,28 +98,28 @@ export const projects: Project[] = [
     name: 'Residencia Los Pinos',
     city: 'Caracas',
     category: 'Residencial',
-    image: '/src/assets/images/PROYECT1.png',
+    image: '/images/PROYECT1.png',
   },
   {
     id: 2,
     name: 'Edificio Comercial Centro',
     city: 'Valencia',
     category: 'Comercial',
-    image: '/src/assets/images/PROYECT2.png',
+    image: '/images/PROYECT2.png',
   },
   {
     id: 3,
     name: 'Remodelación Villa Verde',
     city: 'Maracay',
     category: 'Remodelación',
-    image: '/src/assets/images/PROYECT3.png',
+    image: '/images/PROYECT3.png',
   },
   {
     id: 4,
     name: 'Urbanización El Mirador',
     city: 'Barquisimeto',
     category: 'Residencial',
-    image: '/src/assets/images/PROYECT4.png',
+    image: '/images/PROYECT4.png',
   },
 ]
 

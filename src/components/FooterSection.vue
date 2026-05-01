@@ -12,7 +12,7 @@ import { siteConfig } from '@/data/config'
         <div>
           <div class="flex items-center gap-3 mb-5">
             <img
-              src="/src/assets/images/logo.png"
+              src="/images/logo.png"
               alt="Constru Yamel"
               class="object-contain"
               style="height: 40px"

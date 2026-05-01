@@ -44,7 +44,7 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll))
 
         <!-- Logo -->
         <a href="#inicio" @click.prevent="scrollTo('#inicio')" class="flex items-center gap-3 flex-shrink-0">
-          <img src="/src/assets/images/logo.png" alt="Constru Yamel" class="object-contain" style="height: 45px;" />
+          <img src="/images/logo.png" alt="Constru Yamel" class="object-contain" style="height: 45px;" />
           <span class="font-['Montserrat'] font-bold text-2xl text-white tracking-widest">CONSTRU</span>
           <span class="font-['Montserrat'] font-bold text-2xl text-[#F59E0B] tracking-widest">YAMEL</span>
         </a>
